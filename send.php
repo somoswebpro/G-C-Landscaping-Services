@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // =========================
     // CONFIGURACIÓN DEL CORREO
     // =========================
-    $to = "Info.gclandscapingservices@gmail.com";
+    $to = "somoswebpro.mx@gmail.com";
     $subject = "New Free Estimate Request";
 
     // IMPORTANTE:
